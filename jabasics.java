@@ -1,4 +1,11 @@
+/**
+ * THIS IS A SAMPLE, EWAN KO WAIT LANG ahhahahahahahaahhahahhaahhaha
+ */
+
+
 public class jabasics {
+
+
 
     public static void main(String[] args) {
         System.out.println("Hello World");
